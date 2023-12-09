@@ -1,0 +1,13 @@
+.red-border{
+    border: 0.1rem solid red;
+}
+#navbar{
+    margin-bottom: 1rem;
+    background-color: black;
+    color: aliceblue;
+}
+#main{
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    padding: 1rem;
+}
